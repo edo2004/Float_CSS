@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+.container {
+    width: 100%;
+
+}
+.header {
+    background: rgb(92, 90, 90);
+    width: 98.5%;
+    height: 100px;
+    margin: 10px;
+}
+.nav {
+    background: rgb(175, 170, 170);
+    width: 98.5%;
+    height: 50px;
+    margin: 10px;
+}
+.section {
+    background: rgb(175, 170, 170);
+    width: 69%;
+    height: 500px;
+    margin-left: 10px;
+    float: left;
+}
+.aside {
+    background: rgb(92, 90, 90);
+    width: 29%;
+    height: 500px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: right;
+}
+.footer {
+    background: rgb(92, 90, 90);
+    width: 98.5%;
+    height: 50px;
+    margin: 10px;
+    clear: both;
+}
